@@ -341,6 +341,8 @@ function pageMain() {
         notifyLeft = false
 
         document.body.style.padding = "0.6rem"
+        document.documentElement.style.height = "90%"
+
         document.body.style.alignItems = ""
         document.body.style.justifyContent = ""
     }
